@@ -17,6 +17,7 @@ Mobilní aplikace - Xamarin.Forms
 
 API - ASP.NET Web API; Interní firemní knihovny
 
+Časový rozpis:
 
 Schůzky - CNode (návrh řešení, vytvoření serveru, duplikace změn v souboru, prezentace zainteresovaným úsekům) - 5H 
 
