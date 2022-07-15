@@ -18,3 +18,10 @@ Mobilní aplikace - Xamarin.Forms
 API - ASP.NET Web API; Interní firemní knihovny
 
 
+Schůzky - CNode (návrh řešení, vytvoření serveru, duplikace změn v souboru, prezentace zainteresovaným úsekům) - 5H 
+Implementace CNode - 12H
+Rozšíření BaseAPI o Filter na verze aplikace - 1H
+Odečty - 8H
+Měřidla - 9H
+Aktualizace dat - 5H
+
